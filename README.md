@@ -1,2 +1,2 @@
 # python_projects
-Some projects I built while learning Python.
+Some projects I built while practising Python.
